@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
