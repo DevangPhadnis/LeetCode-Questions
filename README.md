@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,8 +186,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
