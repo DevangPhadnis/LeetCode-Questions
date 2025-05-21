@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,10 +63,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
