@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
