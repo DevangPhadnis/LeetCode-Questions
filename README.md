@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
