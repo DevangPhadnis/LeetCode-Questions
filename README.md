@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
