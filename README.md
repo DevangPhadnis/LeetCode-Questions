@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
