@@ -187,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -221,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
