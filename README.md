@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
