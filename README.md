@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
