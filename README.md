@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
