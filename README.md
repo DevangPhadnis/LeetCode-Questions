@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Linked List
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Prefix Sum
 |  |
 | ------- |
