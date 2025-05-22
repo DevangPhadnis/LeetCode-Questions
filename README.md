@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
 ## Sorting
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
 ## Prefix Sum
 |  |
 | ------- |
