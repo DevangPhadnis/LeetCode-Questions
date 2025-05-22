@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 ## Stack
