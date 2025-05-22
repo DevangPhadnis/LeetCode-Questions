@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0903-implement-rand10-using-rand7](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0903-implement-rand10-using-rand7) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 ## Binary Search
