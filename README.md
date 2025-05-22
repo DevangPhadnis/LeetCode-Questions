@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
