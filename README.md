@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1185-find-in-mountain-array) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## String
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
@@ -619,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
