@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
