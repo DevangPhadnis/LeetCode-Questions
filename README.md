@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
+| [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0908-middle-of-the-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
 ## Sorting
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Hash Function
