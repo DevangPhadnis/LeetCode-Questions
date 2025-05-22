@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Counting
