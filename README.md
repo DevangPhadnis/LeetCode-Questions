@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## String
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
