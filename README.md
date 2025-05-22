@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0342-power-of-four) |
+| [0903-implement-rand10-using-rand7](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
@@ -461,4 +462,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0903-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
