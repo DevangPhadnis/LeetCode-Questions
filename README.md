@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1185-find-in-mountain-array) |
+| [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -761,4 +764,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
