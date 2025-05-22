@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
