@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0739-daily-temperatures) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 ## String
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0832-binary-tree-pruning) |
