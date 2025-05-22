@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
