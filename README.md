@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
@@ -618,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
