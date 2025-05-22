@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
