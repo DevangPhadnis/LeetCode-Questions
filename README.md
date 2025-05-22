@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Tree
 |  |
 | ------- |
