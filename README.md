@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -654,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
