@@ -29,9 +29,9 @@ class Solution {
 
         int rootExcluded = ls + rs + root.val;
 
-        int rootIncluded = Math.max(root.val, Math.max(ls, rs) + root.val);
+        int rootIncluded = Math.max(root.val, Math.max(ls, rs) +  root.val);
 
-        ans[0] = Math.max(ans[0], Math.max(rootExcluded, rootIncluded));
+        ans[0] = Math.max(ans[0], Math.max(rootIncluded, rootExcluded));
 
         return rootIncluded;
     }
