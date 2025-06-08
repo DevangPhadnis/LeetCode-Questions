@@ -804,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
