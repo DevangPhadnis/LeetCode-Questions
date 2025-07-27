@@ -13,9 +13,7 @@ class Solution {
 
         subset.add(nums[idx]);
         helper(nums, idx + 1, ans, subset);
-        if(subset.size() > 0) {
-            subset.removeLast();
-        }
+        subset.removeLast();
         helper(nums, idx+1, ans, subset);
     }
 }
