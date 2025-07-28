@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0135-candy) |
