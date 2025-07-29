@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
