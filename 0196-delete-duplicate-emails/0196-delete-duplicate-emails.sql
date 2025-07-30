@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+delete p from Person p join (select min(id) as min_id, email from Person group by email having count(email) > 1)subquery ON p.email = subquery.email where p.id != subquery.min_id;
