@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0685-redundant-connection-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0685-redundant-connection-ii) |
@@ -844,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
