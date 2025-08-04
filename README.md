@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1185-find-in-mountain-array) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
+| [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
