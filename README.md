@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1185-find-in-mountain-array) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1580-shuffle-the-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1757-minimum-jumps-to-reach-home) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
+| [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
