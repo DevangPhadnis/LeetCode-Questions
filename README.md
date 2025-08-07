@@ -893,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1135-customers-who-bought-all-products) |
+| [1179-game-play-analysis-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1179-game-play-analysis-i) |
 ## Enumeration
 |  |
 | ------- |
