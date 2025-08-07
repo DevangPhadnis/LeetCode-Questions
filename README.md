@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Linked List
 |  |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
