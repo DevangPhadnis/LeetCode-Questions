@@ -13,7 +13,7 @@ class Solution {
 
         if(head == null || head.next == null) return head;
 
-        ArrayList<Integer> nodesArray = new ArrayList<>();
+        /* ArrayList<Integer> nodesArray = new ArrayList<>();
 
         ListNode start = head;
         while(start != null) {
@@ -31,6 +31,30 @@ class Solution {
             start = start.next;
             idx++;
         }
+
+        return head; */
+
+        ListNode start = head;
+        int count = 1;
+        ListNode kBegin = null;
+        ListNode kEnd = null;
+        while(start != null) {
+            count++;
+            start = start.next;
+        }
+
+        start = head;
+        int pointer = 1;
+        while(start != null) {
+            if(pointer == k) kBegin = start;
+            else if(pointer == count-k) kEnd = start;
+            pointer++;
+            start = start.next;
+        }
+        if(kBegin == null || kEnd == null) return head;
+        int temp = kBegin.val;
+        kBegin.val = kEnd.val;
+        kEnd.val = temp;
 
         return head;
     }
