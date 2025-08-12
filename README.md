@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1127-last-stone-weight) |
 | [1185-find-in-mountain-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1185-find-in-mountain-array) |
 | [1325-path-with-maximum-probability](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1380-number-of-closed-islands](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1396-count-servers-that-communicate) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0817-design-hashmap](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0817-design-hashmap) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
 | [1014-k-closest-points-to-origin](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1250-longest-common-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
