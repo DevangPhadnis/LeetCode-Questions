@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2698-find-the-array-concatenation-value](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2698-find-the-array-concatenation-value) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 ## Stack
 |  |
 | ------- |
@@ -838,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -868,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Function
 |  |
