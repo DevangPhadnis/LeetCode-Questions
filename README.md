@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0136-single-number) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0079-word-search) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/0067-add-binary) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DevangPhadnis/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
