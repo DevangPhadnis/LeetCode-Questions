@@ -4,8 +4,7 @@ class Solution {
         int m = t.length();
         int count = 0;
         int startIndex = -1;
-        int start = 0;
-        int end = 0;
+        int start = 0, end = 0;
         int minLen = Integer.MAX_VALUE;
         HashMap<Character, Integer> map = new HashMap<>();
         for(int i=0;i<m;i++) {
